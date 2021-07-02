@@ -1,0 +1,128 @@
+@charset "utf-8";
+#general {
+    padding: 10px;
+    width: 70%;
+    margin-left: 15%;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    margin-right: 15%;
+    background-image: url(imagenes/estrellado1.jpg);
+}
+#cuerpo2 p #tercera {
+    float: right;
+    padding-right: 4px;
+    padding-left: 4px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-bottom: 8px;
+}
+
+#cuerpo p #primeraima {
+    float: left;
+    padding-right: 11px;
+}
+
+#principal {
+    background-color: #000639;
+    padding: 10px;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    color: #FFFFFF;
+}
+#cuerpo {
+    background-color: #D4D9FF;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: justify;
+    color: #1A0053;
+}
+#imagen {
+    float: left;
+    padding-right: 10px;
+}
+#principal p #tris {
+    float: right;
+    text-align: center;
+    padding-right: 0px;
+    font-size: 16px;
+    right: auto;
+    padding-left: 10px;
+}
+#cuerpo2 {
+    background-color: #FFD4D5;
+    padding: 10px;
+}
+#cuerpo2 {
+    background-color: #FDB4B5;
+    padding: 10px;
+    text-align: justify;
+}
+#cuerpo3 {
+    background-color: #D4D9FF;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#cuerpo2 p #tercera {
+    padding-bottom: 12px;
+    float: left;
+}
+#cuerpo3 p #triste3 {
+    float: left;
+    padding-right: 11px;
+}
+#cuerpo h3 img {
+}
+#cuerpo h3 #tristeza {
+    float: left;
+    padding-right: 10px;
+}
+#cuerpo4 {
+    background-color: #FFBBBC;
+    padding: 10px;
+}
+#cuerpo4 {
+    background-color: #F9C5C6;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: justify;
+}
+#general #cuerpo4 #yana {
+    float: left;
+    padding-right: 6px;
+}
+#general p #psicologo {
+    float: left;
+    padding-right: 10px;
+}
+#general p #psicologo1 {
+    float: left;
+    padding-right: 5px;
+}
+#general p #psicologo2 {
+    float: left;
+    padding-right: 5px;
+}
+#cuerpo3 {
+    background-color: #C1C6EC;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#cuerpo5 {
+    background-color: #C1C6EC;
+    padding-top: 11px;
+    padding-right: 11px;
+    padding-left: 11px;
+    padding-bottom: 11px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+#menu {
+    background-color: #D4D9FF;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: right;
+}

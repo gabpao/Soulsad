@@ -1,0 +1,44 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#Pregunta {
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    color: #000000;
+    background-color: #C583FF;
+}
+#Cuerpo {
+    background-color: #FFCBF5;
+    text-align: left;
+}
+#cuerpo {
+    padding: 10px;
+    width: 70%;
+    margin-left: 15px;
+}
+#cuerpo {
+    background-color: #BEAFF7;
+    padding: 10px;
+    width: 70%;
+    margin-left: 15px;
+}
+#encabezado {
+    background-color: #FFE0E0;
+    padding: 10px;
+    width: 70%;
+    margin-left: 15%;
+}
+#encabezado {
+    background-color: #F5D7D7;
+    padding: 10px;
+    width: 70%;
+    margin-left: 15%;
+}
+#encabezado {
+    background-color: #FFD8D9;
+    padding: 10px;
+    width: 1547px;
+    margin-left: 15%;
+    position: absolute;
+    left: -310px;
+    top: 9px;
+}
